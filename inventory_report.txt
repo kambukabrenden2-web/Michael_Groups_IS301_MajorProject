@@ -1,1 +1,41 @@
+BookID: 101
+Title: The C Programming Language
+Author: Brian Kernighan
+Genre: Technology
+Year Published: 1988
+Quantity: 5
+Availability Status: Available
+----------------------------
+BookID: 102
+Title: Clean Code
+Author: Robert Martin
+Genre: Technology
+Year Published: 2008
+Quantity: 3
+Availability Status: Available
+----------------------------
+BookID: 103
+Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+Genre: Fiction
+Year Published: 1925
+Quantity: 2
+Availability Status: Available
+----------------------------
+BookID: 104
+Title: Introduction to Algorithms
+Author: Thomas Cormen
+Genre: Technology
+Year Published: 2009
+Quantity: 4
+Availability Status: Available
+----------------------------
+BookID: 105
+Title: Pride and Prejudice
+Author: Jane Austen
+Genre: Classic
+Year Published: 1813
+Quantity: 1
+Availability Status: Available
+----------------------------
 

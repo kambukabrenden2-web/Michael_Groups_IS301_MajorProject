@@ -1,7 +1,11 @@
+#include <stdio.h>
+#include "auth.h"
+#include "menu.h"
 
 #include <stdio.h>
 #include "auth.h"
 #include "menu.h"
+
 
 int main() {
     if (!login()) {
